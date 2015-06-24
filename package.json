@@ -22,7 +22,7 @@
     "express"
   ],
   "dependencies": {
-    "chokidar": "1.0.1"
+    "chokidar": "0.6.3"
   },
   "license": "MIT",
   "engines": {
